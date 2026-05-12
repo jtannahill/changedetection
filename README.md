@@ -1,5 +1,11 @@
 # changedetection
 
+![Status](https://img.shields.io/badge/status-live-success)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-89E051?logo=gnubash&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazonec2&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/jtannahill/changedetection)
+
 Website change monitoring using [changedetection.io](https://github.com/dgtlmoon/changedetection.io).
 
 ## Infrastructure
